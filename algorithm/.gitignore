@@ -85,6 +85,3 @@ nb-configuration.xml
 .DS_Store
 
 
-application.properties
-conf.properties
-rsa.private.key
